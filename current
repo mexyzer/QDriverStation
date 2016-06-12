@@ -1,15 +1,9 @@
 <!--Versions-->
-<latest-ios>0.12</latest-ios>
-<latest-linux>0.13</latest-linux>
-<latest-android>0.12</latest-android>
-<latest-windows>0.14</latest-windows>
-<latest-macintosh>0.14</latest-macintosh>
-<latest-windows-phone>0.12</latest-windows-phone>
+<latest-linux>16.06</latest-linux>
+<latest-windows>16.06</latest-windows>
+<latest-macintosh>16.06</latest-macintosh>
   
 <!--Download links-->
-<download-ios>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-ios>
-<download-linux>https://github.com/WinT-3794/QDriverStation/archive/master.zip</download-linux>
-<download-android>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-android>
-<download-windows>http://sourceforge.net/projects/qdriverstation/files/stable%20%28hopefully%29/0.14/qdriverstation-0.14-installer.exe/download</download-windows>
-<download-macintosh>http://sourceforge.net/projects/qdriverstation/files/stable%20%28hopefully%29/0.14/qdriverstation-0.14-macintosh.zip/download</download-macintosh>
-<download-windows-phone>https://sourceforge.net/projects/qdriverstation/files/latest/download</download-windows-phone>
+<download-linux>https://github.com/WinT-3794/QDriverStation/releases/tag/v16.06-beta</download-linux>
+<download-windows>https://github.com/WinT-3794/QDriverStation/releases/tag/v16.06-beta</download-windows>
+<download-macintosh>https://github.com/WinT-3794/QDriverStation/releases/tag/v16.06-beta</download-macintosh>
